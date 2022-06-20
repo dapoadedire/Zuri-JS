@@ -1,0 +1,1 @@
+alert("My name is Adedire Adedapo Farouq, My height is 190cm, I am from Nigeria")
