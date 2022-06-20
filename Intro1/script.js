@@ -3,20 +3,20 @@ alert("This is a calculator for you. Please enter the appropriate parameters. Th
 
 
 function add(a, b) {
-    alert("a + b is " + (a + b))
+    alert("Result: "+ (a) + " + " + (b) + " = " + (a + b))
 }
 
 function subtract(a, b) {
-    alert("a - b is " + (a - b))
+    alert("Result: "+ (a) + " - " + (b) + " = " + (a - b))
 }
 
 
 function divide(a, b) {
-    alert("a / b is " + (a / b))
+    alert("Result: " + (a) + " / " + (b) + " = " + (a / b))
 }
 
 function multiply(a, b) {
-    alert("a * b is " + (a * b))
+    alert("Result: "+ (a) + " * " + (b) + " = " + (a * b))
 }
 
 
